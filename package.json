@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-chatgpt-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "openai": "^4.0.0"
+  }
+}
