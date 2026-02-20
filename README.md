@@ -39,8 +39,6 @@
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-# 🤖 WhatsApp ChatGPT/Groq Bot
-
 මෙය WhatsApp හරහා AI සමඟ සම්බන්ධ වීමට හැකි සරල JavaScript Bot එකකි. මෙහිදී `whatsapp-web.js` සහ `Groq/OpenAI API` භාවිතා කර ඇත.
 
 ## 🚀 ආරම්භ කිරීමට (Getting Started)
@@ -60,3 +58,6 @@
 
 ```bash
 npm install whatsapp-web.js qrcode-terminal axios openai
+
+3. ```bash
+npm start
