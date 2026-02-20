@@ -58,6 +58,4 @@
 
 ```bash
 npm install whatsapp-web.js qrcode-terminal axios openai
-
-3. ```bash
 npm start
