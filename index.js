@@ -15,11 +15,11 @@ const client = new Client({
 // QR Code එක පෙන්වීම
 client.on('qr', (qr) => {
     qrcode.generate(qr, { small: true });
-    console.log('කරුණාකර ඉහත QR Code එක Scan කරන්න.');
+    console.log('කරුණාකර ඉහත QR Code එක Scan කරන්න...');
 });
 
 client.on('ready', () => {
-    console.log('Bot සූදානම්! දැන් පණිවිඩ යැවිය හැක.');
+    console.log('Bot සූදානම්! දැන් පණිවිඩ යැවිය හැක...');
 });
 
 // පණිවිඩ ලැබෙන විට ක්‍රියාත්මක වන කොටස
