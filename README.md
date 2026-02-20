@@ -31,3 +31,10 @@
 1. **Repository එක Clone කරන්න:**
    ```bash
    git clone [https://github.com/mrdarkhyperlegend-hue/CHAT-GPT-whatsapp-bot-.git](https://github.com/mrdarkhyperlegend-hue/CHAT-GPT-whatsapp-bot-.git)
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
