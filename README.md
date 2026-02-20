@@ -1,1 +1,33 @@
-#https://github.com/mrdarkhyperlegend-hue/CHAT-GPT-whatsapp-bot-/blob/main/index.html
+<div align="center">
+
+# 🤖 ChatGPT WhatsApp Bot 🤖
+**වඩාත් වේගවත් සහ බුද්ධිමත් AI සහායකයා දැන් ඔබේ WhatsApp එකට!**
+
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Build-v2.0-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)]()
+
+<p align="center">
+  <a href="https://mrdarkhyperlegend-hue.github.io/CHAT-GPT-whatsapp-bot-/">
+    <img src="https://img.shields.io/badge/VISIT-LIVE_DEMO-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🌟 ප්‍රධාන විශේෂාංග (Key Features)
+
+* **⚡ ක්ෂණික පිළිතුරු (Fast Response):** ඕනෑම ප්‍රශ්නයකට තත්පර කිහිපයකින් පිළිතුරු ලබා දේ.
+* **🧠 GPT-4 තාක්ෂණය:** වඩාත් නිවැරදි සහ බුද්ධිමත් පිළිතුරු ලබා ගැනීමේ හැකියාව.
+* **📷 රූප විශ්ලේෂණය:** රූප සටහන් සහ ඡායාරූප හඳුනා ගැනීමේ හැකියාව.
+* **🛠️ 24/7 ක්‍රියාකාරීත්වය:** දවසේ ඕනෑම වේලාවක සේවාව ලබාගත හැක.
+
+---
+
+### 🚀 ස්ථාපනය කරගන්නා ආකාරය (How to Setup)
+
+පහත පියවර අනුගමනය කර ඔබේම බොට් කෙනෙකු සාදා ගන්න.
+
+1. **Repository එක Clone කරන්න:**
+   ```bash
+   git clone [https://github.com/mrdarkhyperlegend-hue/CHAT-GPT-whatsapp-bot-.git](https://github.com/mrdarkhyperlegend-hue/CHAT-GPT-whatsapp-bot-.git)
